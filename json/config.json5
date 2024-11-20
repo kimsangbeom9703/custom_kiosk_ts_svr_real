@@ -1,0 +1,8 @@
+{
+  equipment_resolutio: 'height',
+  equipment_width: 1920,
+  equipment_height: 1080,
+  equipment_name: '키오스크 Ts',
+  equipment_appName: 'CUSTOM-TS-KIOSK',
+  equipment_id: 'CUSTOM-TS-KIOSK',
+}
